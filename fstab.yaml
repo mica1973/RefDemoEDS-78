@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p153004-e1584857.adobeaemcloud.com/bin/franklin.delivery/mica1973/wknd-universal/main"
+    url: "https://author-p153004-e1584857.adobeaemcloud.com/bin/franklin.delivery/mica1973/RefDemoEDS-78/main"
     type: "markup"
     suffix: ".html"
